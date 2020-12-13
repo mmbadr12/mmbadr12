@@ -1,6 +1,6 @@
 
 
-<!--
+
 **mmbadr12/mmbadr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...(facebook)(www.facebook.com/100005296440614)
 - 😄 Pronouns: ...he/his
 - ⚡ Fun fact: ...I'm very happ!
--->
+
