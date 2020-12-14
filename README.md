@@ -2,7 +2,8 @@
 
 
 **mmbadr12/mmbadr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![image](giphy(2).gif)
+
+![image](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
 
 Here are some ideas to get you started:
 
