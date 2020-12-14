@@ -3,7 +3,6 @@
 
 **mmbadr12/mmbadr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![image](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
 
 Here are some ideas to get you started:
 
@@ -16,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...he/his
 - ⚡ Fun fact: ...I'm very happ!
 
+![image](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
