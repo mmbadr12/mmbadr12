@@ -2,8 +2,6 @@
 
 <img   align="right" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="GIF" margin-top="0px" />
 
-#### Here are some ideas to get you started:
-
   * 🔭 I’m currently working on  I lerning
   * 🌱 I’m currently learning Node.js Express.js
   * 👯 I’m looking to collaborate on Open Source
